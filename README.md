@@ -10,3 +10,6 @@ Just an update.
 
 ## Updates from master
 Really causing trouble now.
+
+## Causing trouble
+Just some text to create a conflict
