@@ -7,3 +7,6 @@ Just an update.
 
 ## More changes
 :)
+
+## Causing trouble
+Just some text to create a conflict
